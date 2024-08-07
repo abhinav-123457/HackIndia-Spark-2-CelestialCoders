@@ -49,10 +49,6 @@ The Decentralized Time Capsule (DTC) project allows users to create and store di
    npm start
    ```
 
-4. **Deploy smart contracts:**
-   ```bash
-   npx hardhat run scripts/deploy.js --network localhost
-   ```
 
 ## Usage
 
