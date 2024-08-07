@@ -12,11 +12,6 @@
    - **`LICENSE`**: The license for your project (e.g., MIT License).
    - **`package.json`**: Manages dependencies and scripts.
 
-```markdown
-# Decentralized Time Capsule (DTC)
-
-![Decentralized Time Capsule](screenshots/banner.png)
-
 ## Overview
 
 The Decentralized Time Capsule (DTC) project allows users to create and store digital time capsules on the blockchain. These capsules can include files, messages, or links, and are set to be revealed at a specific future date. The project leverages blockchain technology, decentralized storage, and NFTs to provide a secure and transparent platform for digital preservation.
