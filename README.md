@@ -1,19 +1,16 @@
 # HackIndia-Spark-2-CelestialCoders
 
 
-   - **`public/`**: Contains static assets like the `index.html` file.
-   - **`src/`**: Contains the main application code, including React components, styles, and other assets.
-   - **`contracts/`**: Contains smart contracts for the project.
-   - **`test/`**: Contains test files for the smart contracts.
-   - **`screenshots/`**: (Optional) Screenshots of the application for the README.
+   -  Contains static assets like the `index.html` file.
+   -  Contains the main application code, including React components, styles, and other assets.
+   -  Contains smart contracts for the project.
+   -  Contains test files for the smart contracts.
 
 4. **Essential Files:**
    - **`README.md`**: The main documentation for your project.
    - **`.gitignore`**: Specifies files to ignore in the repository.
    - **`LICENSE`**: The license for your project (e.g., MIT License).
    - **`package.json`**: Manages dependencies and scripts.
-
-### Sample README.md Template
 
 ```markdown
 # Decentralized Time Capsule (DTC)
@@ -84,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact us at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries, please contact us at [abhinavshakya063@gmail.com](mailto:abhinavshakya063@gmail.com).
 
 ## Acknowledgments
 
